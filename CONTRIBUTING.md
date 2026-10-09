@@ -15,7 +15,7 @@ of the form `Signed-off-by: Name Lastname <name.lastmail@emailaddress.com>`. Ple
 include all authors of any given commit into the commit message with a
 `Signed-off-by` line. This indicates that you have read and signed the Developer
 Certificate of Origin (see below) and are able to legally submit your code to
-this repository.
+this repository. Cryptographic signing of commits (`git commit -S`) is not required.
 
 See [GitHub's official documentation](https://help.github.com/articles/using-pull-requests/) for more details.
 
